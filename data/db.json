@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "blogname": "Monika",
+      "body": "heyy monika",
+      "author": "monika",
+      "id": "1"
+    },
+    {
+      "blogname": "Maithilee",
+      "body": "heyy maithilee",
+      "author": "maithilee",
+      "id": "2"
+    },
+    {
+      "blogname": "rani",
+      "body": "heyy rani",
+      "author": "rani",
+      "id": "3"
+    }
+  ]
+}
