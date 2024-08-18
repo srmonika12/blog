@@ -1,21 +1,21 @@
 {
   "blogs": [
     {
-      "blogname": "Monika",
-      "body": "heyy monika",
-      "author": "monika",
+      "blogname": "The Book Thief - Marcus Zusak",
+      "body": "The Book Thief is a novel by Markus Zusak. It follows the story of Liesel, a young girl who has to move to another home because her mother can’t afford to look after her.Set during the era of Nazi Germany, she witnesses a number of events unfold. Some upsetting. Some that change the way she sees the world.",
+      "author": "Mo",
       "id": "1"
     },
     {
-      "blogname": "Maithilee",
-      "body": "heyy maithilee",
-      "author": "maithilee",
+      "blogname": "The Song of Achilles -Madeline Miller",
+      "body": "Achilles, 'the best of all the Greeks,' son of the cruel sea goddess Thetis and the legendary king Peleus, is strong, swift, and beautiful, irresistible to all who meet him. Patroclus is an awkward young prince, exiled from his homeland after an act of shocking violence. Brought together by chance, they forge an inseparable bond, despite risking the gods' wrath.",
+      "author": "Mo",
       "id": "2"
     },
     {
-      "blogname": "rani",
-      "body": "heyy rani",
-      "author": "rani",
+      "blogname": "Not Without My Daughter -Betty Mahmoody",
+      "body": "'Not without my daughter' is one of the best books I have read. The book is about real life story of Betty mehmoody, who had a happy life in US with a Dr husband and a 4yrs old daughter, one day he tooks her to Iran for holidays just to meet his family. At the end of holiday her husband MAhmoody wants them to live there forever..this point makes the book more shocking and thrilling onwards. The rest book is her extreme struggle to escape from Iran. The way she fought taught me how a mother loves her child beyond her life ! It made me think how uncertain the life was to a women whose husband, a real man in her life suddenly switched to a cruel heartless person.",
+      "author": "ro",
       "id": "3"
     }
   ]

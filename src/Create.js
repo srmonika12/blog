@@ -35,9 +35,9 @@ const Create =()=>{
 
             <label>Author:</label>
             <select value={author} onChange={(e)=>setAuthor(e.target.value)}>
-                <option value="thetis">thetis</option>
-                <option value="patroclus">patroclus</option>
-                <option value="achilles">achilles</option>
+                <option value="Mo">Mo</option>
+                <option value="Bo">Bo</option>
+                <option value="Ro">Ro</option>
             </select>
 
             <label>Body</label>
